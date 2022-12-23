@@ -2,6 +2,8 @@ package net.sirich.grunkuscraft.item;
 
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.SwordItem;
+import net.minecraft.world.item.Tiers;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -22,6 +24,10 @@ public class ModItems
 
     public static final RegistryObject<Item> NIOBIUM_NUGGET = ITEMS.register("niobium_nugget",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.GRUNKUS_TAB)));
+
+    public static final RegistryObject<Item> NIOBIUM_SWORD = ITEMS.register("niobium_sword",
+            () -> new SwordItem(null, 5, 3.5f,
+                    new Item.Properties().tab(ModCreativeModeTab.GRUNKUS_TAB)));
 
 
     public static void register(IEventBus eventBus)
