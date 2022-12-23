@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "grunkuscraft:niobium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "grunkuscraft:niobium"
+  }
+}
