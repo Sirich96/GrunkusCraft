@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "grunkuscraft:niobium_block",
+    "grunkuscraft:niobium_ore",
+    "grunkuscraft:deepslate_niobium_ore",
+    "grunkuscraft:raw_niobium_block"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "niobium",
+  "ingredient": {
+    "item": "grunkuscraft:niobium_ore"
+  },
+  "result": "grunkuscraft:niobium"
+}

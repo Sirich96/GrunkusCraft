@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "grunkuscraft:raw_niobium"
+    }
+  },
+  "result":
+  {
+    "item": "grunkuscraft:raw_niobium_block"
+  }
+}

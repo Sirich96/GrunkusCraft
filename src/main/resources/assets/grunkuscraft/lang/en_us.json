@@ -1,0 +1,12 @@
+{
+  "item.grunkuscraft.niobium": "Niobium",
+  "item.grunkuscraft.raw_niobium": "Raw Niobium",
+  "item.grunkuscraft.niobium_nugget": "Niobium Nugget",
+
+  "block.grunkuscraft.niobium_block": "Block of Niobium",
+  "block.grunkuscraft.raw_niobium_block": "Block of Raw Niobium",
+  "block.grunkuscraft.niobium_ore": "Niobium Ore",
+  "block.grunkuscraft.deepslate_niobium_ore": "Deepslate Niobium Ore",
+
+  "itemGroup.grunkustab": "Grunkus Craft"
+}

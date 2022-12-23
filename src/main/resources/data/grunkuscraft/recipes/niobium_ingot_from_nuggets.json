@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "grunkuscraft:niobium_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "grunkuscraft:niobium"
+  }
+}
