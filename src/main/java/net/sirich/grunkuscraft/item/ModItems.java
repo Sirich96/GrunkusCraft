@@ -26,7 +26,7 @@ public class ModItems
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.GRUNKUS_TAB)));
 
     public static final RegistryObject<Item> NIOBIUM_SWORD = ITEMS.register("niobium_sword",
-            () -> new SwordItem(null, 5, 3.5f,
+            () -> new SwordItem(Tiers.IRON, 3, 0.5,
                     new Item.Properties().tab(ModCreativeModeTab.GRUNKUS_TAB)));
 
 
